@@ -1,4 +1,4 @@
-<img src="..\github\edited.jpg" />
+<img src= "https://drive.google.com/file/d/16zIR1P7O5Dx_hrosgj3Axu30ye-B2w06/view?usp=drive_link" />
 <h1 align="center">Hi 👋, I'm Malinda Umesh</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
