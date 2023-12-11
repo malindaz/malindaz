@@ -1,4 +1,4 @@
-<img src="D:\github\edited.jpg" />
+<img src="..\github\edited.jpg" />
 <h1 align="center">Hi 👋, I'm Malinda Umesh</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
