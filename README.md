@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="C:\Users\ggmal\OneDrive\Desktop\edited.jpg" alt="malindaz" /> </p>
+<p align="left"> <img src="Desktop\edited.jpg" alt="malindaz" /> </p>
 <h1 align="center">Hi , I'm Malinda Umesh</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
