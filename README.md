@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://th.bing.com/th/id/OIP.Mf2OKZHETqrNDrRVRCaYFQAAAA?rs=1&pid=ImgDetMain" alt="malindaz" /> </p>
+<p align="left"> <img src="https://tse3.mm.bing.net/th?id=OIP.aqB8Vzh6TojL0c8CHB6wwQHaCv&pid=Api&P=0&h=220" alt="malindaz" /> </p>
 <h1 align="center">Hi , I'm Malinda Umesh</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
