@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Malinda Umesh</h1>
+<h1 align="center">Hi , I'm Malinda Hemawardana</h1>
 <h3 align="center"></h3>
 
 
