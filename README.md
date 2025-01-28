@@ -3,8 +3,6 @@
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 
-- 🌱 I’m currently learning **Node js, React, Android**
-
 - 📫 How to reach me **malindaumesh093@gmail.com**
 
 
